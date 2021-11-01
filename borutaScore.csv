@@ -1,0 +1,22 @@
+,Features,Score
+0,pants_type,1.0
+1,Dryer_No,1.0
+2,Age_Range,1.0
+3,Race_malay,1.0
+4,Kids_Category,1.0
+5,Race_indian,1.0
+6,Basket_colour,1.0
+7,Shirt_Colour,1.0
+8,Race_chinese,1.0
+9,Pants_Colour,1.0
+10,Body_Size,1.0
+11,Gender,0.9
+12,Washer_No,0.8
+13,Attire_casual,0.7
+14,Attire_traditional,0.6
+15,Spectacles,0.5
+16,Basket_Size,0.5
+17,Attire_formal,0.3
+18,shirt_type,0.2
+19,Race_foreigner ,0.2
+20,With_Kids,0.0
